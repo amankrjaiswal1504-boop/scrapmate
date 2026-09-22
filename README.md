@@ -6,7 +6,7 @@ admins manage prices/collectors/pickups, and payments + receipts are recorded en
 This is an original project (branding, copy, and design created from scratch) — it is not
 affiliated with, and does not copy any code, assets, or exact pricing from, any existing
 scrap-collection company.
-
+..
 ---
 
 ## 1. Project overview
